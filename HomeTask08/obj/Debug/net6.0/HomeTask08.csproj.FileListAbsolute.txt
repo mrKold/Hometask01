@@ -1,0 +1,15 @@
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\bin\Debug\net6.0\HomeTask08.exe
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\bin\Debug\net6.0\HomeTask08.deps.json
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\bin\Debug\net6.0\HomeTask08.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\bin\Debug\net6.0\HomeTask08.dll
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\bin\Debug\net6.0\HomeTask08.pdb
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.dll
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\refint\HomeTask08.dll
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.pdb
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\HomeTask08.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask08\obj\Debug\net6.0\ref\HomeTask08.dll
