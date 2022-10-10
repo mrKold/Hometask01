@@ -1,0 +1,30 @@
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.exe
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.deps.json
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.dll
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.pdb
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.dll
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\refint\HomeTask04.dll
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.pdb
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\Practic\HomeTask04\obj\Debug\net6.0\ref\HomeTask04.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.exe
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.deps.json
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.runtimeconfig.json
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\bin\Debug\net6.0\HomeTask04.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.csproj.AssemblyReference.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.AssemblyInfoInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.AssemblyInfo.cs
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.csproj.CoreCompileInputs.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\refint\HomeTask04.dll
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.pdb
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\HomeTask04.genruntimeconfig.cache
+C:\Users\i-kol\Desktop\IT\All Practic\Practic\HomeTask04\obj\Debug\net6.0\ref\HomeTask04.dll
