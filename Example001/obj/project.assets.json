@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i-kol\\Desktop\\IT\\Practic\\Example001\\Example001.csproj",
-      "projectName": "Example001",
-      "projectPath": "C:\\Users\\i-kol\\Desktop\\IT\\Practic\\Example001\\Example001.csproj",
+      "projectUniqueName": "C:\\Users\\i-kol\\Desktop\\IT\\Practic\\Example001\\Example002.csproj",
+      "projectName": "Example002",
+      "projectPath": "C:\\Users\\i-kol\\Desktop\\IT\\Practic\\Example001\\Example002.csproj",
       "packagesPath": "C:\\Users\\i-kol\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\i-kol\\Desktop\\IT\\Practic\\Example001\\obj\\",
       "projectStyle": "PackageReference",
